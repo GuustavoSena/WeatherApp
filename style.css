@@ -33,3 +33,7 @@ button {
     border: none;
     cursor: pointer;
 }
+
+#weatherInfo{
+    margin-top: 10px;
+}
